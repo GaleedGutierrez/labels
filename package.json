@@ -1,0 +1,57 @@
+{
+	"name": "labels",
+	"version": "1.0.0",
+	"description": "This repo contains the default labels I use in my repositories",
+	"main": "index.js",
+	"scripts": {
+		"lint-md": "markdownlint-cli2 **/*.md !node_modules",
+		"lint-md:fix": "markdownlint-cli2 --fix **/*.md !node_modules",
+		"check-for-dupes": "npx jscpd ./",
+		"prettier": "prettier . --check",
+		"prettier:fix": "prettier . --write",
+		"prepare": "husky"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GaleedGutierrez/labels.git"
+	},
+	"keywords": [
+		"GitHub",
+		"Actions",
+		"Labels"
+	],
+	"author": "Galeed Gutierrez <galeedeveloper@gmail.com> (https://galeedgutierrez.com/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GaleedGutierrez/labels/issues"
+	},
+	"homepage": "https://github.com/GaleedGutierrez/labels#readme",
+	"devDependencies": {
+		"@commitlint/cli": "^19.4.1",
+		"@commitlint/config-conventional": "^19.4.1",
+		"husky": "^9.1.5",
+		"jscpd": "^4.0.5",
+		"markdownlint-cli2": "^0.13.0",
+		"prettier": "3.3.3",
+		"typescript": "^5.5.4"
+	},
+	"prettier": {
+		"endOfLine": "auto",
+		"singleAttributePerLine": true
+	},
+	"lint-staged": {
+		"*.md": "npm run lint-md:fix",
+		"*": "npm run prettier:fix"
+	},
+	"jscpd": {
+		"threshold": 1,
+		"reporters": [
+			"consoleFull"
+		],
+		"ignore": [
+			"**/__snapshots__/**",
+			"**/node_modules/**"
+		],
+		"absolute": true
+	}
+}

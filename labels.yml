@@ -1,0 +1,271 @@
+- id: 7390021820
+  node_id: LA_kwDOMcvXFc8AAAABuHrIvA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/AnyChange"
+  name: AnyChange
+  color: ededed
+  default: false
+  description: null
+
+- id: 7265651279
+  node_id: LA_kwDOMcvXFc8AAAABsREKTw
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/bug"
+  name: bug
+  color: d73a4a
+  default: true
+  description: "Something isn't working"
+
+- id: 7389322102
+  node_id: LA_kwDOMcvXFc8AAAABuHAbdg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/build"
+  name: build
+  color: 8B9304
+  default: false
+  description: "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)"
+
+- id: 7389327293
+  node_id: LA_kwDOMcvXFc8AAAABuHAvvQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/chore"
+  name: chore
+  color: 5317F3
+  default: false
+  description: "Other changes that don't modify src or test files"
+
+- id: 7385324314
+  node_id: LA_kwDOMcvXFc8AAAABuDMbGg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/continuous%20integration"
+  name: "continuous integration"
+  color: 0E8A16
+  default: false
+  description: "Changes to our CI configurations files and scripts (example scopes: Travis, Circle, GitHub Actions,"
+
+- id: 7265651283
+  node_id: LA_kwDOMcvXFc8AAAABsREKUw
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/documentation"
+  name: documentation
+  color: 0075ca
+  default: true
+  description: "Improvements or additions to documentation"
+
+- id: 7265651286
+  node_id: LA_kwDOMcvXFc8AAAABsREKVg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/duplicate"
+  name: duplicate
+  color: cfd3d7
+  default: true
+  description: "This issue or pull request already exists"
+
+- id: 7265651290
+  node_id: LA_kwDOMcvXFc8AAAABsREKWg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/enhancement"
+  name: enhancement
+  color: a2eeef
+  default: true
+  description: "New feature or request"
+
+- id: 7389297126
+  node_id: LA_kwDOMcvXFc8AAAABuG-55g
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/feature"
+  name: feature
+  color: c2e0c6
+  default: false
+  description: "A new feature"
+
+- id: 7389298050
+  node_id: LA_kwDOMcvXFc8AAAABuG-9gg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/fix"
+  name: fix
+  color: 90E62B
+  default: false
+  description: "A bug fix"
+
+- id: 7265651295
+  node_id: LA_kwDOMcvXFc8AAAABsREKXw
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/good%20first%20issue"
+  name: "good first issue"
+  color: 7057ff
+  default: true
+  description: "Good for newcomers"
+
+- id: 7265651293
+  node_id: LA_kwDOMcvXFc8AAAABsREKXQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/help%20wanted"
+  name: "help wanted"
+  color: "008672"
+  default: true
+  description: "Extra attention is needed"
+
+- id: 7265651297
+  node_id: LA_kwDOMcvXFc8AAAABsREKYQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/invalid"
+  name: invalid
+  color: e4e669
+  default: true
+  description: "This doesn't seem right"
+
+- id: 7389317947
+  node_id: LA_kwDOMcvXFc8AAAABuHALOw
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/performance%20improvements"
+  name: "performance improvements"
+  color: 9BF86C
+  default: false
+  description: "A code change that improves performance"
+
+- id: 7389334976
+  node_id: LA_kwDOMcvXFc8AAAABuHBNwA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/priority:%20critical"
+  name: "priority: critical"
+  color: b60205
+  default: false
+  description: ""
+
+- id: 7389335492
+  node_id: LA_kwDOMcvXFc8AAAABuHBPxA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/priority:%20high"
+  name: "priority: high"
+  color: d93f0b
+  default: false
+  description: ""
+
+- id: 7389336171
+  node_id: LA_kwDOMcvXFc8AAAABuHBSaw
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/priority:%20low"
+  name: "priority: low"
+  color: 0e8a16
+  default: false
+  description: ""
+
+- id: 7389336726
+  node_id: LA_kwDOMcvXFc8AAAABuHBUlg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/priority:%20medium"
+  name: "priority: medium"
+  color: fbca04
+  default: false
+  description: ""
+
+- id: 7265651298
+  node_id: LA_kwDOMcvXFc8AAAABsREKYg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/question"
+  name: question
+  color: d876e3
+  default: true
+  description: "Further information is requested"
+
+- id: 7389313374
+  node_id: LA_kwDOMcvXFc8AAAABuG_5Xg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/refactor"
+  name: refactor
+  color: 98A287
+  default: false
+  description: "A code change that neither fixes a bug nor adds a feature"
+
+- id: 7385324318
+  node_id: LA_kwDOMcvXFc8AAAABuDMbHg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/release"
+  name: release
+  color: ededed
+  default: false
+  description: null
+
+- id: 7389328846
+  node_id: LA_kwDOMcvXFc8AAAABuHA1zg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/revert"
+  name: revert
+  color: 78EAF8
+  default: false
+  description: "Reverts a previous commit"
+
+- id: 7385324316
+  node_id: LA_kwDOMcvXFc8AAAABuDMbHA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/source"
+  name: source
+  color: ededed
+  default: false
+  description: null
+
+- id: 7389337468
+  node_id: LA_kwDOMcvXFc8AAAABuHBXfA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/status:%20can't%20reproduce"
+  name: "status: can't reproduce"
+  color: fec1c1
+  default: false
+  description: ""
+
+- id: 7389337953
+  node_id: LA_kwDOMcvXFc8AAAABuHBZYQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/status:%20confirmed"
+  name: "status: confirmed"
+  color: 215cea
+  default: false
+  description: ""
+
+- id: 7389338354
+  node_id: LA_kwDOMcvXFc8AAAABuHBa8g
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/status:%20duplicate"
+  name: "status: duplicate"
+  color: cfd3d7
+  default: false
+  description: "This issue or pull request already exist"
+
+- id: 7389340733
+  node_id: LA_kwDOMcvXFc8AAAABuHBkPQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/status:%20needs%20information"
+  name: "status: needs information"
+  color: fef2c0
+  default: false
+  description: ""
+
+- id: 7389341657
+  node_id: LA_kwDOMcvXFc8AAAABuHBn2Q
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/status:%20wont%20do/fix"
+  name: "status: wont do/fix"
+  color: eeeeee
+  default: false
+  description: "This will not be worked on"
+
+- id: 7389307664
+  node_id: LA_kwDOMcvXFc8AAAABuG_jEA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/style"
+  name: style
+  color: DF2FD8
+  default: false
+  description: "Changes that do not affect the meaning (white space, formatting, missing semi-colons, etc.)"
+
+- id: 7389309697
+  node_id: LA_kwDOMcvXFc8AAAABuG_rAQ
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/test"
+  name: test
+  color: "060810"
+  default: false
+  description: "Adding missing tests or correcting existing tests"
+
+- id: 7389342978
+  node_id: LA_kwDOMcvXFc8AAAABuHBtAg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/type:%20discussion"
+  name: "type: discussion"
+  color: d4c5f9
+  default: false
+  description: ""
+
+- id: 7389344000
+  node_id: LA_kwDOMcvXFc8AAAABuHBxAA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/type:%20epic"
+  name: "type: epic"
+  color: 3E4B9E
+  default: false
+  description: "A theme of work that contain sub-tasks"
+
+- id: 7389345580
+  node_id: LA_kwDOMcvXFc8AAAABuHB3LA
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/type:%20question"
+  name: "type: question"
+  color: d876e3
+  default: false
+  description: "Further information is requested"
+
+- id: 7265651302
+  node_id: LA_kwDOMcvXFc8AAAABsREKZg
+  url: "https://api.github.com/repos/GaleedGutierrez/Curso-Profesional-de-React/labels/wontfix"
+  name: wontfix
+  color: ffffff
+  default: true
+  description: "This will not be worked on"
